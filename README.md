@@ -21,7 +21,7 @@ We gathered our dataset from kaggle.com at https://www.kaggle.com/datasets/NUFOR
 
 The dataset has 12 columns with 80332 entries.
 
-The data is a mixture of numerical values (representing location and time) and categorical values( UFO shape, name of country/city).
+The data is a mixture of numerical values (representing location and time) and categorical values (UFO shape, name of country/city).
 
 
 ## Tools and Technologies
@@ -45,7 +45,7 @@ weather patterns or shapes are more prevalent.
 Our exploratory data analysis of UFO sightings around the world revealed some interesting insights:
 
 - UFO sightings do not exhibit any significant patterns based on shape, time, location, or season.
-- The peak observations are occurring at 8-10 PM(2-3 hours after sunset during the seasons), can be attributed to human fatigue and may not necessarily indicate real UFO observations.
+- The peak observations are occurring at 8-10 PM (2-3 hours after sunset during the seasons), can be attributed to human fatigue and may not necessarily indicate real UFO observations.
 - There are more sighting where population density is higher. 
 
 While our analysis did not uncover conclusive evidence of extraterrestrial activity, it provides valuable insights into the distribution and patterns of UFO sightings.
@@ -53,8 +53,7 @@ While our analysis did not uncover conclusive evidence of extraterrestrial activ
 
 **Acknowledgment**
 
-This dataset was scraped, geolocated, and time standardized from NUFORC data by [Sigmond Axel](https://github.com/planetsig/ufo-reports/blob/master/README.md). (Replace "URL" with the actual URL where readers can find more information about Sigmond Axel's work.)
-
+This dataset was scraped, geolocated, and time standardized from NUFORC data by [Sigmond Axel](https://github.com/planetsig/ufo-reports/blob/master/README.md).
 
 
 
