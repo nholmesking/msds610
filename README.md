@@ -9,7 +9,7 @@ Are UFOs consistent throughout the world? Is there a time or ara where they are 
 
 Reviewing this data helps us figure out we should be afraid. VERY AFRAID!!!
 
-![UFOs](<[blockquote class="imgur-embed-pub" lang="en" data-id="7ZzgIeW"  ><a href="//imgur.com/7ZzgIeW">The reflection of the light inside makes it look like there&#39;s a UFO.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://media.npr.org/assets/img/2023/01/13/pentagon-uap-ufo-photo-aliens-26a98619ba43fb08d5fc0a36dfb12283b4b9b8ec-s1600-c85.webp))
+![UFOs](https://media.npr.org/assets/img/2023/01/13/pentagon-uap-ufo-photo-aliens-26a98619ba43fb08d5fc0a36dfb12283b4b9b8ec-s1600-c85.webp)
 ## Dataset
 
 NUFORC geolocated and time standardized ufo reports for close to a century of data. 80,000 plus reports. 
